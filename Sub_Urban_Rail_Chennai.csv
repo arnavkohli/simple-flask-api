@@ -1,0 +1,55 @@
+City,Zone,Division,Connection,Interchange,Station,Station Code,Distance in Kms,Layout,Parking Contract Available,Space Avaiable No Contract,Sapce Not Avaiable
+Chennai,5,60,South Line,North Line; West Line; MRTS Line,Chennai Beach RS,MSB,0,At Grade,Yes,No,No
+Chennai,5,60,South Line,MRTS Line,Chennai Fort RS,MSF,1.8,At Grade,No,No,Yes
+Chennai,5,58,South Line,North Line; West Line; MRTS Line; CMRL Blue; CMRL Green Line,Chennai Park RS; Chennai Central,MPK,3.07,At Grade,Yes,No,No
+Chennai,5,61,South Line,CMRL Green Line,Chennai Egmore RS; Rail Terminus,MS,4.32,At Grade,Yes,No,No
+Chennai,8,104,South Line,No,Chetpat RS,MSC,6.56,At Grade,Yes,No,No
+Chennai,9,110,South Line,No,Nungambakkam RS,NBK,8.15,At Grade,No,No,Yes
+Chennai,9,117,South Line,No,Kodambakkam RS,MKK,9.68,At Grade,Yes,No,No
+Chennai,10,136,South Line,No,Mambalam RS; T Nagar ,MBM,11.29,At Grade,Yes,No,No
+Chennai,10,142,South Line,No,Saidapet RS,SP,12.9,At Grade,Yes,No,No
+Chennai,12,160,South Line,CMRL Blue Line,Guindy RS,GDY,15.01,At Grade,Yes,No,No
+Chennai,12,161,South Line,CMRL Green Line,St Thomas Mount RS,STM,17.12,At Grade,yes,No,No
+Chennai,12,162,South Line,No,Palavanthangal RS,PZA,18.75,At Grade,No,No,Yes
+Chennai,12,159,South Line,No,Minambakkam RS,MN,20.04,At Grade,No,Yes,No
+Chennai,12,159,South Line,CMRL Blue Line,Tirusulam RS; Airport,TLM,21.22,At Grade,NA,NA,NA
+Chennai,5,60,North Line,South Line; West Line; MRTS Line,Chennai Beach RS,MSB,0,At Grade,Yes,No,No
+Chennai,5,52,North Line,West Line,Royapuram RS ,RPM,1,At Grade,No,Yes,No
+Chennai,5,52,North Line,West Line,Washermanpet RS,WST,3,At Grade,No,Yes,No
+Chennai,5,58,North Line,West Line; South Line; MRTS Line; CMRL Blue; CMRL Green Line,Chennai Central MMC,MMCC,0,At Grade,Yes,No,No
+Chennai,5,53,North Line,West Line,Basin Bridge RS,BBQ,2,At Grade,Yes,No,No
+Chennai,4,47,North Line,No,Korukkupet RS,KOK,4,At Grade,Yes,No,No
+Chennai,4,38,North Line,No,Tondiarpet RS,TNP,5,At Grade,No,No,Yes
+Chennai,4,38,North Line,No,V O C Nagar RS,VOC,6.65,At Grade,No,No,Yes
+Chennai,1,7,North Line,No,Tiruvottiyur RS,TVT,9,At Grade,No,Yes,No
+Chennai,1,4,North Line,No,Wimco Nagar RS,WCN,11.54,At Grade,NA,NA,NA
+Chennai,1,3,North Line,No,Kathivakkam RS,KAVM,15,At Grade,NA,NA,NA
+Chennai,1,2,North Line,No,Ennore RS,ENR,16,At Grade,NA,NA,NA
+Chennai,5,58,West Line,North Line; South Line; MRTS Line; CMRL Blue; CMRL Green Line,Chennai Central MMC,MMCC,0,At Grade,Yes,No,No
+Chennai,5,53,West Line,North line,Basin Bridge RS,BBQ,2,At Grade,Yes,No,No
+Chennai,6,70,West Line,No,Vyasarpadi Jeeva RS,VJM,4,At Grade,Yes,No,No
+Chennai,6,71,West Line,No,Perambur RS,PER,5,At Grade,Yes,No,No
+Chennai,6,69,West Line,No,Perambur Carriage works RS,PCW,6,At Grade,Yes,No,No
+Chennai,8,96,West Line,No,Perambur Loco Works RS,PEW,8,At Grade,Yes,No,No
+Chennai,6,65,West Line,No,Villivakkam RS,VLK,9,At Grade,Yes,No,No
+Chennai,7,83,West Line,No,Korattur RS,KOTR,12,At Grade,No,Yes,No
+Chennai,7,84,West Line,No,Pattaravakkam RS,PVM,14,At Grade,No,No,Yes
+Chennai,7,85,West Line,No,Ambattur RS,ABU,15,At Grade,Yes,No,No
+Chennai,5,60,MRTS Line,South Line; West Line; North Line,Chennai Beach RS,MSB,0,At Grade,Yes,No,No
+Chennai,5,60,MRTS Line,South Line,Chennai Fort RS,MSF,1.7,At Grade,No,No,Yes
+Chennai,5,59,MRTS Line,North Line; West Line; South Line; CMRL BLUE; CMRL Green Line,Park Town RS,MPKT,2.54,At Grade,No,No,Yes
+Chennai,5,59,MRTS Line,No,Chintadripet RS,MCPT,3.43,Elevated,Yes,No,No
+Chennai,9,114,MRTS Line,No,Chepauk RS,MCPK,5,Elevated,Yes,No,No
+Chennai,9,116,MRTS Line,No,Thiruvallikeni RS; Marina Beach,MTCN,5.74,Elevated,yes,No,No
+Chennai,9,121,MRTS Line,No,Light House RS; Marina Beach,MLHS,6.95,Elevated,Yes,No,No
+Chennai,9,124,MRTS Line,No,Mundagakanniamman,MKAK,7.925,Elevated,Yes,No,No
+Chennai,9,124,MRTS Line,No,Thirumayilai RS; Cultural Center,MTMY,8.66,Elevated,yes,No,No
+Chennai,9,126,MRTS Line,No,Mandaiveli RS,MNDY,9.699,Elevated,Yes,No,No
+Chennai,13,173,MRTS Line,No,Greenways Road RS,GWYR,11.02,Elevated,Yes,No,No
+Chennai,13,175,MRTS Line,No,Kotturpuram RS ,KTPM,11.892,Elevated,Yes,No,No
+Chennai,13,175,MRTS Line,No,Kasthurba Nagar RS ,KTBR,12.824,Elevated,Yes,No,No
+Chennai,13,175,MRTS Line,No,Indira Nagar RS,INDR,13.796,Elevated,No,Yes,No
+Chennai,13,180,MRTS Line,No,Thiruvanmiyur RS,TYMR,14.655,Elevated,yes,No,No
+Chennai,14,184,MRTS Line,No,Taramani RS,TRMN,16.57,Elevated,yes,No,No
+Chennai,13,179,MRTS Line,No,Perungudi RS,PRGD,17.713,Elevated,Yes,No,No
+Chennai,14,189,MRTS Line,No,Velacherry RS,VLCY,19.34,At Grade,Yes,No,No
